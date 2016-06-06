@@ -1,0 +1,12 @@
+*.class
+
+# maven generated sources
+target/
+
+.settings/
+.project
+.classpath
+# Package Files #
+*.jar
+*.war
+*.ear
